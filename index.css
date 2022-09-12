@@ -1,0 +1,18 @@
+body{
+    overflow-x: hidden;
+    font-family: Public Sans;
+    font-weight: 300, 400, 700;
+}
+#bg2{
+    margin-top: -500px;
+    margin-left: 100px;
+}
+#about{
+    margin-top: -150px;
+}
+#card1{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+#card{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
